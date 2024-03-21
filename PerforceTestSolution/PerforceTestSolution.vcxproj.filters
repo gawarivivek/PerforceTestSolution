@@ -21,6 +21,5 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
-    <None Include="Finding the time period.md" />
   </ItemGroup>
 </Project>
