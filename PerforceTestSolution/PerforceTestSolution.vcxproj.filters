@@ -21,7 +21,6 @@
   </ItemGroup>
   <ItemGroup>
     <None Include=".editorconfig" />
-    <None Include="index.html" />
   </ItemGroup>
   <ItemGroup>
     <Text Include="DoxyFile.txt" />
