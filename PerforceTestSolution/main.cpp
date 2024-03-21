@@ -128,6 +128,17 @@ std::pair<int, int> findPeakPeriod(const std::vector<std::pair<int, int>>& visit
 	return res_time;
 }
 
+/**
+ * @brief The main function of the program.
+ *
+ * This function is the entry point for the program. It parses the command line arguments,
+ * initializes the program, and then calls the main loop.
+ *
+ * @param argc The number of command line arguments.
+ * @param argv The command line arguments - path of text file - visitors (entry and exit timings).
+ *
+ * @return The exit status of the program.
+ */
 int main(int argc, char* argv[])
 {
 	if (argc != 2)
