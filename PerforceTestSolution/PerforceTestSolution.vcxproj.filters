@@ -22,4 +22,7 @@
   <ItemGroup>
     <None Include=".editorconfig" />
   </ItemGroup>
+  <ItemGroup>
+    <Text Include="DoxyFile.txt" />
+  </ItemGroup>
 </Project>

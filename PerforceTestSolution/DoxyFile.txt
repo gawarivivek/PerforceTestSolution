@@ -1,0 +1,11 @@
+# Project name
+PROJECT_NAME	= PerforceTestSolution
+
+# Source code directories
+INPUT			= main.cpp
+
+# Output directory
+OUTPUT_DIRECTORY = doc
+
+# Generate simpler HTML output
+BRIEF_HTML_OUTPUT = YES
