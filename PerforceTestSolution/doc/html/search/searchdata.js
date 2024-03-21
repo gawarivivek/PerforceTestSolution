@@ -1,24 +1,21 @@
 var indexSectionsWithContent =
 {
-  0: "fmprt",
-  1: "fm",
-  2: "fmpr",
-  3: "fpt"
+  0: "fmpr",
+  1: "m",
+  2: "fmpr"
 };
 
 var indexSectionNames =
 {
   0: "all",
   1: "files",
-  2: "functions",
-  3: "pages"
+  2: "functions"
 };
 
 var indexSectionLabels =
 {
   0: "All",
   1: "Files",
-  2: "Functions",
-  3: "Pages"
+  2: "Functions"
 };
 

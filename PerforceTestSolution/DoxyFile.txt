@@ -9,3 +9,5 @@ OUTPUT_DIRECTORY = doc
 
 # Generate simpler HTML output
 BRIEF_HTML_OUTPUT = YES
+
+RECURSIVE = YES
